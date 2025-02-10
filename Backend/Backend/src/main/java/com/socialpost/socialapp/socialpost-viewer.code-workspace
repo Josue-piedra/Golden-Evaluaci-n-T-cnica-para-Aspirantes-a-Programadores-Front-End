@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../../socialpost-viewer"
+		},
+		{
+			"name": "initializrdemo",
+			"path": "../../../../../.."
+		}
+	],
+	"settings": {
+		"maven.view": "flat",
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
